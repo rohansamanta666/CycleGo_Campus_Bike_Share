@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "886975897845",
+    "project_id": "cyclego-fd4d2",
+    "storage_bucket": "cyclego-fd4d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886975897845:android:60158e1e64b8b3b888a5bc",
+        "android_client_info": {
+          "package_name": "com.cyclego.app.cycle_go"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOL4dZEZqNtj3M1Je3C44DGAaU6ZxbCO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
